@@ -1,0 +1,17 @@
+th{
+    background-color: rgb(4, 77, 2);
+    color: rgb(190, 221, 186);
+}
+.color1{
+    background-color: rgb(193, 240, 183);
+}
+.color2{
+    background-color: rgb(158, 247, 162);
+}
+table{
+    border-style: ridge;
+    background-color: aqua;
+}
+.center{
+    text-align: center;
+}
